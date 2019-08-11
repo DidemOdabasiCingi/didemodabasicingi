@@ -1,5 +1,4 @@
 ## A pair of functions that cache the inverse of a matrix
-
 ## Creates a special matrix object that can cache its inverse
 makeCacheMatrix <- function( m = matrix() ) {
   
@@ -34,7 +33,6 @@ makeCacheMatrix <- function( m = matrix() ) {
        setInverse = setInverse,
        getInverse = getInverse)
 }
-
 
 ## Compute the inverse of the special matrix returned by "makeCacheMatrix"
 ## above. If the inverse has already been calculated (and the matrix has not
