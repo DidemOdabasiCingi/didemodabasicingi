@@ -22,8 +22,7 @@ README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecou
 
 FirstName | LastName | Email
 --- | --- | ---
-Michael |  Galarnyk |  <mgalarny@gmail.com>
-Submit |  Pull Request | <youremailhere@gmail.com>
+Didem |  Odabasi Cingi |  <didemodabasi34@gmail.com>
 
 ## License
 
