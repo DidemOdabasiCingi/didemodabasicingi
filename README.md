@@ -15,7 +15,7 @@ Goal | Item | Link to Item
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/DidemOdabasiCingi/didemodabasicingi/blob/master/R.Script "run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set Link]
 Github Repo | Repo |  
-Cookbook | CodeBook.md |  [Repo Link]
+Codebook | CodeBook.md |  [Repo Link]
 README | ReadingItNow |  [Repo Link]
 
 ## Contributors
